@@ -1,0 +1,24 @@
+{
+  "name": "mini_js_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagaykohelet/mini_js_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hagaykohelet/mini_js_app/issues"
+  },
+  "homepage": "https://github.com/hagaykohelet/mini_js_app#readme",
+  "dependencies": {
+    "config": "^4.1.1"
+  }
+}
